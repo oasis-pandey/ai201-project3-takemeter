@@ -4,6 +4,8 @@ A fine-tuned `distilbert-base-uncased` text classifier that sorts r/nba comments
 
 > Full design rationale lives in [`planning.md`](./planning.md). This README is the standalone final report.
 
+**🎥 Demo video (3–5 min):** https://drive.google.com/file/d/1mV_N9bRY2QF1i11nf9hZ6GNCPCcMFsoY/view?usp=sharing
+
 ---
 
 ## 1. Community
